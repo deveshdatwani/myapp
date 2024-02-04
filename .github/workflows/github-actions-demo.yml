@@ -1,4 +1,4 @@
-name: GitHub Actions Demo
+name: Push Event Confirm Job
 run-name: Push confirm
 on: [push]
 jobs:
